@@ -1,0 +1,14 @@
+Section: misc
+Priority: optional
+Homepage: http://canaima.softwarelibre.gob.ve
+Standards-Version: 3.9.1
+
+Package: canaima-caribay-guiones
+Version: 0.1
+Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
+Depends: ${misc:Depends}, kabikaboo
+Architecture: all
+Copyright: copyright
+Changelog: changelog
+Description: Metapaquete que permite instalar aplicaciones para guionistas
+ Metapaquete que permite a escritores escribir novelas y guiones.
